@@ -5,16 +5,3 @@ add line
 
 分支
 
-
-
-reset
-
-
-pull
-
-
-reset
-
-2分支
-
-
