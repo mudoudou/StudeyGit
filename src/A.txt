@@ -1,1 +1,2 @@
 add A
+B update A
