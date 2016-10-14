@@ -1,9 +1,3 @@
 add B2
 finish B2
 
-<<<<<<< HEAD
-
-test git reset
-=======
-Make some changes that will be undone
->>>>>>> parent of 7a8255e... Revert "Make some changes that will be undone 1
