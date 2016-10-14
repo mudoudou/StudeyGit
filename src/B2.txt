@@ -1,2 +1,4 @@
 add B2
 finish B2
+
+Make some changes that will be undone
