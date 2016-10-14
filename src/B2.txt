@@ -1,2 +1,5 @@
 add B2
 finish B2
+
+
+test git reset
