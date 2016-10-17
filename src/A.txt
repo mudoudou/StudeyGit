@@ -4,3 +4,6 @@ A update A
 
 B update A
 
+.gitignore
+
+update A 9.20
