@@ -8,4 +8,8 @@ B update A
 
 update A 9.20
 
+
 B update A
+
+A update A
+
